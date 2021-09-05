@@ -5,7 +5,7 @@
   <p align="center">
   Draft of a Photo portolfio. This program was created using React with a focus on using hooks. <br>
   <!-- DEPLOYED LINK -->
-  Live link: 
+  Live link: http://saidhadad.github.io/photo-port
   <br>
   GitHub repository URL: https://github.com/SaidHadad/photo-port
 
