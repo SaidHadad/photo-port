@@ -51,6 +51,11 @@ const PhotoList = ({ category }) => {
       description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie',
     },
     {
+      name: 'Canada Family',
+      category: 'portraits',
+      description: 'Mis victimas en Canada! :)',
+    },
+    {
       name: 'Pancakes',
       category: 'food',
       description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie',
