@@ -3,7 +3,7 @@
   
   <!-- DESCRIPTION -->
   <p align="center">
-  Draft of a Photo portolfio. This program was created using React with a focus on using hooks.
+  Draft of a Photo portolfio. This program was created using React with a focus on using hooks. <br>
   <!-- DEPLOYED LINK -->
   Live link: 
   <br>
